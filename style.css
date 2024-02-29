@@ -389,6 +389,9 @@ footer .chini{
         margin-left: 100px;
         text-align: center;
     }
+    .logo p{
+        font-size: 12px;
+    }
 
     .menus{
         margin-top: 328px;
